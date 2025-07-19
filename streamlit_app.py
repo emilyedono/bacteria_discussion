@@ -7,7 +7,7 @@ st.title("What's My Prescription, Doc?")
 st.markdown("""
 ### Antibiotic effectiveness varies based on the bacteria Genus  
 <span style="font-size:18px; font-weight:bold;"></span> ℹ️ 
-**What is MIC?** MIC is minimum inhibitory concentration and the lower the value, the more effective the antibiotic.
+**What is MIC?** MIC is minimum inhibitory concentration - the lower the value, the more effective the antibiotic.
 """, unsafe_allow_html=True)
 
 
